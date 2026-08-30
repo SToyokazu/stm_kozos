@@ -73,6 +73,5 @@ STM32CubeProgrammer (フラッシュに書き込み) → ST-Link/V2-1 → Nucleo
 
 - 本の要件をすべて満たす
 - 無料で利用できるツール中心
-- Windows/Linux/macOS対応
 - USB 1本でプログラミング可能
 - 現在の最新マイコンで学習可能
