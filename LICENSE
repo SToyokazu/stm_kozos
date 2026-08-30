@@ -1,0 +1,31 @@
+このソフトウェアは KL-01 ライセンスのもとで公開されています。
+ライセンスの詳細については、同梱の `KL-01` ファイルを参照してください。
+
+本ソフトウェアは、坂井弘亮氏による組込みOS「KOZOS」および
+書籍『12ステップで作る 組込みOS自作入門』の内容・ソースコードを
+ベースとして開発したものです。
+
+KOZOS:
+https://www.kozos.jp/kozos/
+
+『12ステップで作る 組込みOS自作入門』サポートページ:
+https://www.kozos.jp/books/makeos/
+
+本ソフトウェアは KOZOS の公式配布物ではなく、独立して開発・公開しているものです。
+
+
+This software is released under the KL-01 license.
+For the full license terms, please refer to the included `KL-01` file.
+
+This software was developed based on the embedded operating system KOZOS
+by Hiroaki Sakai and the source code and material presented in the book
+"12 Steps to Build Your Own Embedded OS"
+(Japanese title: 『12ステップで作る 組込みOS自作入門』).
+
+KOZOS:
+https://www.kozos.jp/kozos/
+
+Book support page:
+https://www.kozos.jp/books/makeos/
+
+This software is an independent project and is not an official distribution of KOZOS.
